@@ -24,8 +24,8 @@ Follow the instructions below to set up and run the project.
 
 ### Prerequisites
 
-- Node.js (version X.X.X or later)
-- npm (version X.X.X or later)
+- Node.js
+- npm
 - Python (for `requirements.txt`)
 
 ### Installation
