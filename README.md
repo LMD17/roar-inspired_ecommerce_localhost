@@ -32,7 +32,7 @@ Follow the instructions below to set up and run the project.
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/e-commerce.git
+   git clone https://github.com/LMD17/e-commerce.git
    cd e-commerce
    ```
 
